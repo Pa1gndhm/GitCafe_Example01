@@ -1,8 +1,26 @@
-# Joe's Cafe Menu_Example01
+# Café Menu
 
-## List:
-1. Cappucino
-2. Latte
-3. Expresso
-4. Americano
+## Beverages
+- **Coffee**
+  - Espresso
+  - Latte
+  - Cappuccino
+- **Tea**
+  - Green Tea
+  - Earl Grey
+  - Chamomile
 
+## Breakfast
+- Avocado Toast
+- Belgian Waffles
+- Eggs Benedict
+
+## Lunch
+- Club Sandwich
+- Quinoa Salad
+- Panini
+
+## Desserts
+- Chocolate Cake
+- Cheesecake
+- Fruit Tart
