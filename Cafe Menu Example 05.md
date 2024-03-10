@@ -2,7 +2,7 @@
 
 ## Beverages
 - **Coffee**
-  - [Espresso](![image](https://github.com/Pa1gndhm/GitCafe_Example01/assets/154462536/40684683-836f-449e-b05e-b0b50bb4dfa9)
+  - [Espresso](Expresso.jpg)
   - [Latte](latte.jpg)
   - [Cappuccino](cappuccino.jpg)
 - **Tea**
