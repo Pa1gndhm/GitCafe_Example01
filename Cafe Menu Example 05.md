@@ -2,9 +2,9 @@
 
 ## Beverages
 - **Coffee**
-  [Espresso](espresso.jpg)
-  [Latte](latte.jpg)
-  [Cappuccino](cappuccino.jpg)
+  - [Espresso](espresso.jpg)
+  - [Latte](latte.jpg)
+  - [Cappuccino](cappuccino.jpg)
 - **Tea**
   - ![Green Tea](green_tea.jpg)
   - ![Earl Grey](earl_grey.jpg)
