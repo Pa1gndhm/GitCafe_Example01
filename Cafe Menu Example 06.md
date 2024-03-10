@@ -24,3 +24,6 @@
 - Chocolate Cake - $5.00
 - Cheesecake - $6.00
 - Fruit Tart - $4.50
+
+[ForMoreDetail](https://docs.google.com/document/d/1Et3Ouu9EtLJXl4J1CyUILHCc9Diaqz4q6bBA3dj3g8Q/edit?usp=sharing)
+
