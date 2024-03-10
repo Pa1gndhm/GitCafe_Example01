@@ -2,7 +2,7 @@
 
 ## Beverages
 - **Coffee**
-  - Espresso - $2.50
+  - Espresso - $2.50[Expresso](https://docs.google.com/document/d/1Et3Ouu9EtLJXl4J1CyUILHCc9Diaqz4q6bBA3dj3g8Q/edit?usp=sharing)
   - Latte - $3.00
   - Cappuccino - $3.50
 - **Tea**
