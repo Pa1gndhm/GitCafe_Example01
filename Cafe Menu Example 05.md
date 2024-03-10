@@ -21,6 +21,6 @@
 - [Panini](panini.jpg)
 
 ## Desserts
-- ![Chocolate Cake](chocolate_cake.jpg)
+- ![Chocolate Cake](https://github.com/Pa1gndhm/GitCafe_Example01/assets/154462536/d7e8ba4f-369a-4209-897c-cbe42c384f0b)
 - ![Cheesecake](cheesecake.jpg)
 - ![Fruit Tart](fruit_tart.jpg)
